@@ -39,7 +39,7 @@ function gameOver() {
         <h1> GREAT EFFORT!</h1>
         <p>Your final score is ${score}</p>
         <button onclick="location.reload()" >Restart</button>
-        <button onclick=" href="https://englishbolega.com/games/" >PLAY MORE</button>
+        <button  href="https://englishbolega.com/games/" >PLAY MORE</button>
     `;
     endgameEl.style.display = "flex";
 }
